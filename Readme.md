@@ -1,4 +1,4 @@
-Generator of URLs for downloading Debian repository indexes 
+Generator of URLs for downloading Debian repository's indexes 
 ======
 This program is the scratch to an itch. The itch is the lack
 of network connection in my home computer, which makes harder

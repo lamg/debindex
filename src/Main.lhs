@@ -1,4 +1,4 @@
-Generator of URLs for downloading Debian repository indexes 
+Generator of URLs for downloading Debian repositories's indexes 
 ======
 The following program comes out from the necessity
 of installing Debian packages in an offline machine.
@@ -40,8 +40,8 @@ locally (with option -nH); there's no need of creating
 the directory structure before. Actually wget can do 
 recursive downloads, which would make this program useless,
 but the advantage of this program is the "accuracy" of generated
-URLs; in a recursive download with wget avoiding links not 
-conforming the repository structure is tricky since there is
+URLs; in a recursive download with wget, avoiding links not 
+conforming the repository structure is tricky, since there is
 no standard HTML page for presenting a repository over HTTP.
 
 > module Main where
